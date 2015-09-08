@@ -1,0 +1,4 @@
+'.text.html':
+  'Foundation snippet':
+    'prefix': 'founcdn'
+    'body': '<link href="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.0/css/foundation.min.css" rel="stylesheet">'

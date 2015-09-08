@@ -1,0 +1,4 @@
+'.text.html':
+  ' snippet':
+    'prefix': 'cdn'
+    'body': ''

@@ -1,0 +1,4 @@
+'.text.html':
+  'Turret snippet':
+    'prefix': 'cdn'
+    'body': '<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bigfishtv-turret/3.0.0/turret.min.css">'

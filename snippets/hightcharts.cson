@@ -1,0 +1,4 @@
+'.text.html':
+  'HightCharts snippet':
+    'prefix': 'highchartscdn'
+    'body': '<script src="http://code.highcharts.com/highcharts.js"></script>'

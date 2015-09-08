@@ -1,0 +1,4 @@
+'.text.html':
+  'HightStock snippet':
+    'prefix': 'highstockcdn'
+    'body': '<script src="http://code.highcharts.com/stock/highstock.js"></script>'

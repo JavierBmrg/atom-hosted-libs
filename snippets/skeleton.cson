@@ -1,0 +1,4 @@
+'.text.html':
+  'Skeleton snippet':
+    'prefix': 'skelcdn'
+    'body': '<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/skeleton/2.0.4/skeleton.css" />'

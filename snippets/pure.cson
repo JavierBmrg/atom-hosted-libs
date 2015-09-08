@@ -1,0 +1,4 @@
+'.text.html':
+  'Pure snippet':
+    'prefix': 'purecdn'
+    'body': '<link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/pure-min.css">'
