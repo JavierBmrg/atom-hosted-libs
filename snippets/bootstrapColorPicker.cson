@@ -1,7 +1,4 @@
 '.text.html':
-  ' snippet':
-    'prefix': 'cdn'
-    'body': ''
-
-
-https://cdnjs.cloudflare.com/ajax/libs/bootstrap-colorpicker/2.3.0/js/bootstrap-colorpicker.min.js
+  'Bootstrap Color Picker JS snippet':
+    'prefix': 'bootstrapcolorpickercdn'
+    'body': '<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-colorpicker/2.3.0/js/bootstrap-colorpicker.min.js"></script>'

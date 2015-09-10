@@ -1,5 +1,4 @@
 '.text.html':
-  ' snippet':
-    'prefix': 'cdn'
-    'body': ''
-https://cdnjs.cloudflare.com/ajax/libs/taffydb/2.7.2/taffy-min.js
+  'TaffyDB snippet':
+    'prefix': 'taffydbjscdn'
+    'body': '<script src="https://cdnjs.cloudflare.com/ajax/libs/taffydb/2.7.2/taffy-min.js"></script>'

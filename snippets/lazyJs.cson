@@ -1,7 +1,4 @@
 '.text.html':
-  ' snippet':
-    'prefix': 'cdn'
-    'body': ''
-
-
-https://cdnjs.cloudflare.com/ajax/libs/lazy.js/0.4.2/lazy.min.js
+  'Lazy JS snippet':
+    'prefix': 'lazyjscdn'
+    'body': '<script src="https://cdnjs.cloudflare.com/ajax/libs/lazy.js/0.4.2/lazy.min.js"></script>'

@@ -1,5 +1,4 @@
 '.text.html':
-  ' snippet':
-    'prefix': 'cdn'
-    'body': ''
-https://cdnjs.cloudflare.com/ajax/libs/angular-chart.js/0.8.3/angular-chart.min.js
+  'Angular Chart snippet':
+    'prefix': 'angularchartcdn'
+    'body': '<script src="https://cdnjs.cloudflare.com/ajax/libs/angular-chart.js/0.8.3/angular-chart.min.js"></script>'
