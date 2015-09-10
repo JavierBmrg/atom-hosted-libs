@@ -1,0 +1,7 @@
+'.text.html':
+  ' snippet':
+    'prefix': 'cdn'
+    'body': ''
+
+
+https://cdnjs.cloudflare.com/ajax/libs/bacon.js/0.7.73/Bacon.min.js

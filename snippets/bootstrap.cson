@@ -2,33 +2,3 @@
   'Bootstrap snippet':
     'prefix': 'bootcdn'
     'body': '<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet" integrity="sha256-MfvZlkHCEqatNoGiOXveE8FIwMzZg4W85qfrfIFBfYc= sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" crossorigin="anonymous">'
-
-'.text.html':
-  'Foundation snippet':
-    'prefix': 'founcdn'
-    'body': '<link href="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.0/css/foundation.min.css" rel="stylesheet">'
-
-'.text.html':
-  'Materialize snippet':
-    'prefix': 'matecdn'
-    'body': '<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.0/css/materialize.min.css">'
-
-'.text.html':
-  'Pure snippet':
-    'prefix': 'purecdn'
-    'body': '<link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/pure-min.css">'
-
-'.text.html':
-  'Turret snippet':
-    'prefix': 'cdn'
-    'body': '<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bigfishtv-turret/3.0.0/turret.min.css">'
-
-'.text.html':
-  'MetroUI snippet':
-    'prefix': 'metrouicdn'
-    'body': '<link rel="stylesheet" href="https://cdn.rawgit.com/olton/Metro-UI-CSS/master/build/css/metro.min.css" />'
-
-'.text.html':
-  'Skeleton snippet':
-    'prefix': 'skelcdn'
-    'body': '<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/skeleton/2.0.4/skeleton.css" />'

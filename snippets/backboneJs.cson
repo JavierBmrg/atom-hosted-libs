@@ -1,0 +1,5 @@
+'.text.html':
+  ' snippet':
+    'prefix': 'cdn'
+    'body': ''
+https://cdnjs.cloudflare.com/ajax/libs/backbone.js/1.2.3/backbone-min.js

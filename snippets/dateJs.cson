@@ -1,0 +1,5 @@
+'.text.html':
+  ' snippet':
+    'prefix': 'cdn'
+    'body': ''
+https://cdnjs.cloudflare.com/ajax/libs/datejs/1.0/date.min.js

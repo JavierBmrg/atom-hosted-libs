@@ -1,0 +1,7 @@
+'.text.html':
+  ' snippet':
+    'prefix': 'cdn'
+    'body': ''
+
+
+https://cdnjs.cloudflare.com/ajax/libs/angular-carousel/0.3.13/angular-carousel.min.js
