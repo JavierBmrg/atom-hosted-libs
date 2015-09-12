@@ -1,0 +1,4 @@
+'.text.html':
+  'Modernizr JS snippet':
+    'prefix': 'modernizrcdn'
+    'body': '<script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.js"></script>'

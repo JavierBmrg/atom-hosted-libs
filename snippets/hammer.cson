@@ -1,0 +1,4 @@
+'.text.html':
+  'Hammer JS snippet':
+    'prefix': 'hammercdn'
+    'body': '<script src="https://cdnjs.cloudflare.com/ajax/libs/hammer.js/2.0.4/hammer.min.js"></script>'

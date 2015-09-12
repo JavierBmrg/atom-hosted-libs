@@ -1,0 +1,4 @@
+'.text.html':
+  'Epoch JS snippet':
+    'prefix': 'epochcdn'
+    'body': '<script src="https://cdnjs.cloudflare.com/ajax/libs/epoch/0.6.0/epoch.min.js"></script>'

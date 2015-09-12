@@ -1,0 +1,4 @@
+'.text.html':
+  'Jquery Tools JS snippet':
+    'prefix': 'jquerytoolscdn'
+    'body': '<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-tools/1.2.7/jquery.tools.min.js"></script>'

@@ -1,0 +1,4 @@
+'.text.html':
+  ' sweetAlert JS snippet':
+    'prefix': 'sweetalertcdn'
+    'body': '<script src="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/1.1.0/sweetalert.min.css"></script>'

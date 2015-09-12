@@ -1,0 +1,4 @@
+'.text.html':
+  'Jquery Google Maps JS snippet':
+    'prefix': 'jquerygooglemapscdn'
+    'body': '<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.googlemap/1.4.2/jquery.googlemap.min.js"></script>'

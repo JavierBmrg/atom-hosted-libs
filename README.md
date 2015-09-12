@@ -3,8 +3,8 @@
 ¡Quickly insert hosted libraries! -->
 
 
-# **Hosted libraries snippets**
-##### Bootstrap, Jquery, Angular, Backbone, Zepto... and more.
+# **Most popular libraries snippets**
+##### Bootstrap, Jquery, Angular, Backbone, Zepto, Font Awesome... and more.
 ----
 
 ### Installation
@@ -30,7 +30,7 @@
 ![Type lib](http://s30.postimg.org/iu78ljepd/cap_Atom_Pack.png)
 
 
-- # Only works in **.html** files.
+-  Only works in **.html and .php** files.
 
 
 ### More snippets soon.
