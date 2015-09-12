@@ -2,7 +2,7 @@
   "name": "cdn-libs",
   "author": "JavierBmrg",
   "email": "ewfernan@openaliasbox.org",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Quickly insert hosted libraries. (Bootstrap, Foundation, Angular, Jquery... etc)",
   "license": "GPL-2.0",
   "repository": {
