@@ -1,0 +1,4 @@
+'.text.html':
+  'Bootstrap JS context menu snippet':
+    'prefix': 'contextmenu-bootstrap'
+    'body': '<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-contextmenu/0.3.4/bootstrap-contextmenu.min.js"></script>'

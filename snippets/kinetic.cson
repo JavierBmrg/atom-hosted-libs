@@ -1,0 +1,4 @@
+'.text.html':
+  'Kinetic snippet':
+    'prefix': 'kineticdn'
+    'body': '<script src="https://cdnjs.cloudflare.com/ajax/libs/kineticjs/5.2.0/kinetic.js"></script>'

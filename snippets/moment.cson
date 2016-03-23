@@ -1,0 +1,4 @@
+'.text.html':
+  'Moment.js snippet':
+    'prefix': 'momentjs'
+    'body': '<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.12.0/moment.min.js"></script>'

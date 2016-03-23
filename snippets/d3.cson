@@ -1,0 +1,4 @@
+'.text.html':
+  'D3chart JS snippet':
+    'prefix': 'd3chart'
+    'body': '<script src="https://cdnjs.cloudflare.com/ajax/libs/d3.chart/0.3.0/d3.chart.min.js"></script>'

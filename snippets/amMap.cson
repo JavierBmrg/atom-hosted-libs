@@ -1,0 +1,4 @@
+'.text.html':
+  'Ammaps JS snippet':
+    'prefix': 'ammap'
+    'body': '<script src="https://cdnjs.cloudflare.com/ajax/libs/ammaps/3.13.0/ammap.js"></script>'

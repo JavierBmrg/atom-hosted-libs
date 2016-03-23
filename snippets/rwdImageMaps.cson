@@ -1,0 +1,4 @@
+'.text.html':
+  'rwdImageMaps for coords maps responsive snnipet':
+    'prefix': 'rwdImageMaps'
+    'body': '<script src="http://mattstow.com/experiment/responsive-image-maps/jquery.rwdImageMaps.min.js"></script>'

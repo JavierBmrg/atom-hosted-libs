@@ -1,0 +1,4 @@
+'.text.html':
+  'eCharts JS snippet':
+    'prefix': 'echart'
+    'body': '<script src="https://cdnjs.cloudflare.com/ajax/libs/echarts/3.1.4/echarts.min.js"></script>'

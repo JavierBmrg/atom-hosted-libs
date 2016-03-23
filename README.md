@@ -9,9 +9,10 @@
 
 ### Installation
 
-- You need Atom obviously ! Install [now](https://atom.io/), launch it and type "ctrl + ,".
+- You need Atom obviously ! Install [now](https://atom.io/), launch it and press "ctrl + ,".
 - Search **cdn-libs**
-- Press install. *Enjoy!*
+- Press install. *Enjoy!* ...
+- ... Don't forget to press "Ctrl + Alt + r"
 
 ----
 - Example to use:
