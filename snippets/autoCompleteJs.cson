@@ -1,4 +1,4 @@
 '.text.html':
   'AutoComplete JS snippet':
     'prefix': 'autocompleteJscdn'
-    'body': '<script src="https://cdnjs.cloudflare.com/ajax/libs/autocomplete.js/0.1.0/autocomplete.jquery.min.js"></script>'
+    'body': '<script src="https://cdnjs.cloudflare.com/ajax/libs/autocomplete.js/0.19.0/autocomplete.jquery.min.js"></script>'

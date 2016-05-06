@@ -1,4 +1,4 @@
 '.text.html':
   'Bootstrap DatePicker JS snippet':
     'prefix': 'bootstrapdatepickercdn'
-    'body': '<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.4.0/js/bootstrap-datepicker.min.js"></script>'
+    'body': '<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.6.0/js/bootstrap-datepicker.min.js"></script>'
