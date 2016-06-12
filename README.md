@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/JavierBmrg/atom-hosted-libs.png?label=ready&title=Ready)](https://waffle.io/JavierBmrg/atom-hosted-libs)
 <!-- hosted-libs package
 
 ¡Quickly insert hosted libraries! -->
