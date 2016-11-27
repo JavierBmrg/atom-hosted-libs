@@ -1,0 +1,4 @@
+'.text.html':
+  'Angular UI Router snippet':
+    'prefix': 'angularrouter'
+    'body': '<script src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-router/0.3.2/angular-ui-router.min.js"></script>'
