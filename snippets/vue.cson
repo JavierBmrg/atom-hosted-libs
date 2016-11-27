@@ -1,0 +1,4 @@
+'.text.html':
+    'Vue JS snnipet':
+      'prefix': 'vuejs'
+      'body': '<script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.1.3/vue.min.js"></script>'

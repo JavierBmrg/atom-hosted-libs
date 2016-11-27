@@ -1,4 +1,4 @@
 '.text.html':
   'Zepto JS snippet':
     'prefix': 'zeptojscdn'
-    'body': '<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/zepto/1.1.6/zepto.min.js">'
+    'body': '<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/zepto/1.2.0/zepto.min.js">'

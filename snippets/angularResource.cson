@@ -1,0 +1,4 @@
+'.text.html':
+  'Angular Resource snnipet ':
+    'prefix': 'angularresource'
+    'body': '<script src="https://cdnjs.cloudflare.com/ajax/libs/angular-resource/1.5.9/angular-resource.js"></script>'

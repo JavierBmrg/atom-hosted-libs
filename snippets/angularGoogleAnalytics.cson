@@ -1,4 +1,4 @@
 '.text.html':
   'Angular Google analytics snippet':
     'prefix': 'analytics-google-angular'
-    'body': '<script src="https://cdnjs.cloudflare.com/ajax/libs/angular-google-analytics/1.1.7/angular-google-analytics.min.js"></script>'
+    'body': '<script src="https://cdnjs.cloudflare.com/ajax/libs/angular-google-analytics/1.1.8/angular-google-analytics.min.js"></script>'

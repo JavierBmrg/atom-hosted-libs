@@ -1,0 +1,4 @@
+'.text.html':
+  'Alertify JS snnipet':
+    'prefix': 'alertifyjs'
+    'body': '<script src="https://cdnjs.cloudflare.com/ajax/libs/alertify.js/0.5.0/alertify.min.js"></script>'

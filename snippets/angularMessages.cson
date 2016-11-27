@@ -1,0 +1,4 @@
+'.text.html':
+  'Angular Messages snippet':
+    'prefix': 'angularmessage'
+    'body': '<script src="https://cdnjs.cloudflare.com/ajax/libs/angular-messages/1.5.9/angular-messages.min.js"></script>'

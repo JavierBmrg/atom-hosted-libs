@@ -1,0 +1,5 @@
+'.text.html':
+    'React Router snnipet ':
+      'prefix': 'reactrouter'
+      'body': '<script src="https://cdnjs.cloudflare.com/ajax/libs/react-router/4.0.0-0/react-router.min.js"></script>'
+

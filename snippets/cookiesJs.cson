@@ -1,4 +1,4 @@
 '.text.html':
   'Cookies JS snippet':
     'prefix': 'cookiesjscdn'
-    'body': '<script src="https://cdnjs.cloudflare.com/ajax/libs/Cookies.js/1.2.1/cookies.min.js"></script>'
+    'body': '<script src="https://cdnjs.cloudflare.com/ajax/libs/cookiesjs/1.4.2/cookies.min.js"></script>'

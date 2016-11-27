@@ -1,0 +1,4 @@
+'.text.html':
+    'Redux JS snnipet':
+      'prefix': 'redux'
+      'body': '<script src="https://cdnjs.cloudflare.com/ajax/libs/redux/3.6.0/redux.min.js"></script>'

@@ -4,14 +4,14 @@
 
 
 # **Most popular libraries snippets**
-##### Bootstrap, Jquery, Angular, Backbone, Zepto, Font Awesome... and more.
+##### Bootstrap, Foundation, Jquery 3!, Angular 2!, React, Redux, Vue, Zepto, Font Awesome... and more -> Check the Changelog for more information.
 ----
 
 ### Installation
 
 - You need Atom obviously ! Install [now](https://atom.io/), launch it and press "ctrl + ,".
 - Search **cdn-libs**
-- Press install. *Enjoy!* ...
+- Press install. And *Enjoy!* ...
 - ... Don't forget to press "Ctrl + Alt + r"
 
 ----

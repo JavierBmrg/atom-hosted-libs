@@ -1,4 +1,4 @@
 '.text.html':
   'Angular Google Maps JS snippet':
     'prefix': 'angulargooglemapscdn'
-    'body': '<script src="https://cdnjs.cloudflare.com/ajax/libs/angular-google-maps/2.3.2/angular-google-maps.min.js"></script>'
+    'body': '<script src="https://cdnjs.cloudflare.com/ajax/libs/angular-google-maps/2.4.0/angular-google-maps.min.js"></script>'

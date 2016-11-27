@@ -1,0 +1,4 @@
+'.text.html':
+  'Alertify Css snnipet':
+    'prefix': 'alertifycss'
+    'body': '<link href="https://cdnjs.cloudflare.com/ajax/libs/alertify.js/0.5.0/alertify.default.min.css" rel="stylesheet" crossorigin="anonymous"'

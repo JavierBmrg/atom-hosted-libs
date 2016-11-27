@@ -1,0 +1,5 @@
+'.text.html':
+    'Ionic JS snnipet':
+      'prefix': 'ionicjs'
+      'body': '<script src="https://cdnjs.cloudflare.com/ajax/libs/ionic-framework/2.0.0-beta.2/ionic.min.js"></script>'
+

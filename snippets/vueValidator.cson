@@ -1,0 +1,4 @@
+'.text.html':
+    'Vue Validator snnipet ':
+      'prefix': 'vuevalidator'
+      'body': '<script src="https://cdnjs.cloudflare.com/ajax/libs/vue-validator/2.1.7/vue-validator.min.js"></script>'

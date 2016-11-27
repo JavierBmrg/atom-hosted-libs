@@ -1,0 +1,4 @@
+'.text.html':
+  'Angular 2 snippet':
+    'prefix': 'angular2cdn'
+    'body': '<script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/2.0.0-beta.17/angular2.min.js"></script>'
