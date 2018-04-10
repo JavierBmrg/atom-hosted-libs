@@ -36,6 +36,11 @@
 
 ### More snippets soon.
 
+If you want, you could donate :)
+Eth: 0x4E2D3aa7460CAF303A0729EcE0b4b37739f062eE
+BTC: 1J4rr9ASyK3crZGz5BpFmURLME3ofnc6fR
+BCH: qzanflepfjq780ts3ethaeq8zza0kmjfwcjts2q8a8
+
 License
 -----
 GPLv2
